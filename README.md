@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evahuigao
 - 👀 I’m interested in snorkeling :)
 - 🌱 I’m currently learning multiple natural and computing languages
-- 💞️ I’m looking to collaborate on data analysis projects 
+- 💞️ I’m looking to collaborate on data analysis / data science / machine learning projects 
 - 📫 How to reach me - please email me for collaborations! 
 
 <!---
